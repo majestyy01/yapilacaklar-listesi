@@ -108,7 +108,7 @@ function App() {
               <Code2 className="w-4 h-4" />
               <span>Made by</span>
               <a
-                href="https://github.com/woxicdev"
+                href="https://github.com/majestyy01"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-medium text-indigo-600 hover:text-indigo-700 transition-colors"
