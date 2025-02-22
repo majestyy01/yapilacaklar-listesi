@@ -9,7 +9,7 @@ interface TaskListProps {
   date: Date;
 }
 
-const categories = ['İş', 'Kişisel', 'Alışveriş', 'Sağlık', 'Diğer'];
+const categories = ['İş', 'Kişisel', 'Alışveriş', 'Sağlık','Ders','Eğlence','Spor','Diğer'];
 const priorities = ['low', 'medium', 'high'] as const;
 
 function TaskList({ date }: TaskListProps) {
