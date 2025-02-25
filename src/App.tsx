@@ -46,7 +46,7 @@ function App() {
         >
           <div className="p-6 border-b border-gray-100">
             <div className="flex items-center justify-between mb-6">
-              <h1 className="text-3xl font-bold text-gray-800">Günlük Planlayıcı</h1>
+              <h1 className="text-3xl font-bold text-gray-800">Bugünün İşi</h1>
               <div className="flex items-center gap-4">
                 <button
                   onClick={() => navigateDate('prev')}
